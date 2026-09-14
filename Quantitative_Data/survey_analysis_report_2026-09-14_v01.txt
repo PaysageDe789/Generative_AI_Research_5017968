@@ -1,0 +1,4 @@
+CLASSROOM REPORT OUTLINE
+Fictional demonstration: scores 3, 4, 5; n = 3; mean = 4.00.
+Real-study sections: sampling, exclusions, missing data, method, results, limitations, and reproducibility.
+This is not evidence about real generative AI users.

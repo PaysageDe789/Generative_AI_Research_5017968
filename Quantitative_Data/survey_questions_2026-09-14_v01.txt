@@ -1,0 +1,5 @@
+CLASSROOM DRAFT - not an approved or administered survey.
+1. How often do you use generative AI for study? Never / Monthly / Weekly / Daily.
+2. How useful are these tools? 1 = not useful, 5 = very useful.
+3. What benefits or risks have you noticed? Optional free text.
+Do not collect names, student IDs, or contact details in this practice example.

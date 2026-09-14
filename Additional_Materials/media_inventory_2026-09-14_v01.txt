@@ -1,0 +1,3 @@
+CLASSROOM MEDIA INVENTORY TEMPLATE - no actual media included.
+Fields: filename, date, type, purpose, permission/licence, identifiability, storage location.
+Share only permitted non-sensitive media; keep private media in approved restricted storage.

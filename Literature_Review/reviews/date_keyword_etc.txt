@@ -1,0 +1,10 @@
+Blank reading-note template - no source has been reviewed.
+Date (YYYY-MM-DD):
+Keywords:
+Full citation / Zotero key:
+Source type:
+Research question:
+Methods and sample:
+Key findings:
+Limitations:
+Relevance:

@@ -1,0 +1,3 @@
+SYNTHETIC ONLY - no real responses.
+Fictional usefulness scores: 3, 4, 5 on a 1-to-5 scale.
+Values are embedded in the example script; they cannot support conclusions about actual users.
